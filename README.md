@@ -89,28 +89,6 @@ FitnessFreaks is a modern AI-powered fitness web application developed as a Fina
 
 ---
 
-# 📂 Project Structure
-
-```
-src/
-│
-├── components/
-│   ├── admin/
-│   ├── dashboard/
-│   ├── community/
-│   ├── ui/
-│   └── ...
-│
-├── hooks/
-├── integrations/
-├── lib/
-├── pages/
-├── utils/
-└── App.tsx
-```
-
----
-
 # 🚀 Installation
 
 Clone the repository
